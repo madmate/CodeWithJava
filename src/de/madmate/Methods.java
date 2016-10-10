@@ -5,10 +5,16 @@ package de.madmate;
  */
 public class Methods {
     public static void main(String[] args) {
+        Operatoren operatoren = new Operatoren();
         System.out.println(baum('a'));
+        System.out.println(operatoren.addition(4.5, 3.7));
     }
 
-    public static int baum(char c) {
+    private static int baum(char c) {
         return (int) c;
+    }
+
+    private static String Haus() {
+        return "Das Haus ist schön!";
     }
 }
