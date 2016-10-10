@@ -23,6 +23,7 @@ public class Switches {
                 System.out.println("Z ist "+z);
                 break;
         }
+        double x = Math.random();
 
     }
 }
