@@ -1,4 +1,4 @@
-package de.madmate;
+package de.madmate.Day1;
 
 /**
  * Created by markus on 10.10.16.

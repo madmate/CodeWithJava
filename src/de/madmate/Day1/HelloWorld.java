@@ -1,4 +1,4 @@
-package de.madmate;
+package de.madmate.Day1;
 
 public class HelloWorld {
 
